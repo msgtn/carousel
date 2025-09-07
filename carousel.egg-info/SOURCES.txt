@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+carousel/__init__.py
+carousel/carousel.py
+carousel.egg-info/PKG-INFO
+carousel.egg-info/SOURCES.txt
+carousel.egg-info/dependency_links.txt
+carousel.egg-info/entry_points.txt
+carousel.egg-info/requires.txt
+carousel.egg-info/top_level.txt
+tests/test_carousel.py

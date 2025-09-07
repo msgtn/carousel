@@ -9,3 +9,6 @@ dependencies = [
     "pytest",
     "pillow"
 ]
+
+[project.scripts]
+carousel = "carousel.carousel:main"

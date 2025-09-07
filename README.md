@@ -1,1 +1,4 @@
-Usage examples in `tests/test_carousel.py`
+```
+uv sync
+uv run carousel [path/to/images]
+```
